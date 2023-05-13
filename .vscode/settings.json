@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.cpp": "cpp",
+    "*.dart": "dart",
+    "*.js": "javascript",
+    "*.rs": "rust",
+    "*.html": "html",
+    "iostream": "cpp"
+  }
+}
