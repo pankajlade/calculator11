@@ -17,5 +17,6 @@ int main() {
   std::cout << "a / b = " << calc.divide(a, b) << std::endl;
   std::cout << "cooboi69"<<std::endl;
   std::cout << "new change" <<std::endl;
+  std::cout << "India is great" << endl;
   return 0;
 }
