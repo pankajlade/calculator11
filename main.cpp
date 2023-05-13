@@ -16,7 +16,7 @@ int main() {
   std::cout << "a * b = " << calc.multiply(a, b) << std::endl;
   std::cout << "a / b = " << calc.divide(a, b) << std::endl;
   std::cout << "cooboi69"<<std::endl;
-  std::cout << "new change" <<std::endl;
+  std::cout << "new change <<<<<<<<<<<<<<< " <<std::endl;
   
   return 0;
 }
