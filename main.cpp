@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include "calculator.h"
-using namespace std;
+
 int main() {
   Calculator calc;
 
@@ -17,7 +17,6 @@ int main() {
   std::cout << "a / b = " << calc.divide(a, b) << std::endl;
   std::cout << "cooboi69"<<std::endl;
   std::cout << "new change" <<std::endl;
-  std::cout << "some new change brnach added" << std::endl;
   
   return 0;
 }
